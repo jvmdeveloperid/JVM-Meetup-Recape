@@ -1,3 +1,3 @@
 # JVM Meetup 1
 
-![Poster](photos/JVM Meetup 1.jpg)
+![Poster](photos/JVMMeetup1.jpg)
