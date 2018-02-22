@@ -18,4 +18,4 @@ Speakers :
 
 ### Photo Session :
 
-![JVM Meetup 11](/photos/JVM Meetup 1.jpg)
+![JVM Meetup 11](../photos/JVM Meetup 1.jpg)
