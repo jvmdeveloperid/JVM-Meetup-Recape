@@ -19,3 +19,7 @@ Speakers :
 ### Photo Session :
 
 ![JVM Meetup 11](https://github.com/JVMDeveloperID/JVM-Meetup-Recape/blob/master/jvm-meetup-11/photos/JVM%20Meetup%201.jpeg)
+
+![JVM Meetup 11](https://github.com/JVMDeveloperID/JVM-Meetup-Recape/blob/master/jvm-meetup-11/photos/JVM%20Meetup%202.jpeg)
+
+![JVM Meetup 11](https://github.com/JVMDeveloperID/JVM-Meetup-Recape/blob/master/jvm-meetup-11/photos/JVM%20Meetup%203.jpeg)
