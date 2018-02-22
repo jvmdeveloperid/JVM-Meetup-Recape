@@ -16,3 +16,6 @@ Speakers :
 
 	Code : https://github.com/JVMDeveloperID/Spring-Hystrix
 
+### Photo Session :
+
+![JVM Meetup 11](/photos/JVM Meetup 1.jpg)
